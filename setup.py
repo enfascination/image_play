@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 setup(
     name='image_play',
     version='0.1.0',
-    url='https://github.com/enfascination/image_play.git',
+    url='https://github.com/SocialScienceWithOnlineData/image_play.git',
     author='Seth Frey',
     author_email='sfrey@ucdavis.edu',
     description='Helper functions for performing image recognition on web images in a notebook environment',
